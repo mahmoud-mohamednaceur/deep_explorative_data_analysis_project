@@ -22,12 +22,5 @@ In this project, I aimed to conduct a comprehensive exploratory data analysis (E
 
 - **Statistical Analysis**: I applied statistical methods to test the significance of certain findings, like salary differences across roles or experience levels, allowing for more robust conclusions.
 
-### Future Directions:
-
-- **Comparative Analysis Over Time**: An interesting next step could be to compare this dataset with similar datasets from previous years to identify salary growth trends and shifts in demand for certain roles or skills.
-  
-- **Skill-Based Analysis**: Examining which specific skills (e.g., proficiency in Python, machine learning techniques, data visualization) correlate with higher salaries could be valuable for professionals looking to advance their careers.
-
-- **Prediction Models**: Building predictive models to estimate data science salaries based on factors like location, role, experience, and skills could provide actionable insights for both individuals and organizations.
 
 Through this project, I gained a deeper understanding of the factors that influence salaries in the data science field and how these factors vary globally and across different roles and experience levels. This analysis provides valuable insights for both aspiring data scientists and industry stakeholders, helping them make more informed decisions based on data-driven salary trends.
